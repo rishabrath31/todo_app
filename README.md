@@ -41,10 +41,10 @@ Clone the todo_app from GitHub:
 
 ```bash
 # Get the app from GitHub repository
-bench get-app https://github.com/myusername/todo_app.git
+bench get-app https://github.com/rishabrath31/todo_app.git
 
 # Alternative: Clone to a specific branch if needed
-# bench get-app https://github.com/myusername/todo_app.git --branch main
+# bench get-app https://github.com/rishabrath31/todo_app.git --branch main
 ```
 
 ### Step 4: Create a New Site
